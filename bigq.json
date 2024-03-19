@@ -1,0 +1,28 @@
+{
+    "BigQuery Schema": [
+    {
+        "name": "id",
+        "type": "INT64"
+    },
+    {
+      "name": "rank",
+      "type": "STRING"
+     },
+     {
+      "name": "name",
+      "type": "STRING"
+     },
+     {
+      "name": "country",
+      "type": "STRING"
+     },
+     {
+        "name": "rating",
+        "type": "INT64"
+     },
+     {
+        "name": "trend",
+        "type": "STRING"
+     }
+    ]
+   }
